@@ -21,7 +21,26 @@ This is a **Java application** that fetches **live weather data** using the **Op
 
 ### **2️⃣ Steps to Run**  
 🔹 **Clone the Repository**  
-```sh
+🔹 Compile the Java File
+''sh:
+javac -cp ".;json-20210307.jar" WeatherClient.java''
+🔹 Run the Program
+sh:
+java -cp ".;json-20210307.jar" WeatherClient
+
 git clone https://github.com/alekhyadama2003/RESTAPIClient.git
 cd RESTAPIClient
+## ⚙️ Technologies Used
+- **Java** (Core Java, HTTP Requests)
+- **REST API** (OpenWeatherMap API)
+- **JSON Parsing** (org.json library)
+## 📌 API Example
+vbnet
+Enter city name: New York
+Weather in New York:
+Description: Clear sky
+Temperature: 25.3°C
+Humidity: 55.0%
+
+
 
