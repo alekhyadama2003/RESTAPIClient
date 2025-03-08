@@ -38,6 +38,7 @@ cd RESTAPIClient
 vbnet
 Enter city name: New York
 Weather in New York:
+***Output : ![Image](https://github.com/user-attachments/assets/eeadc17c-c921-4e98-96fe-0913cf1e4f6b)
 Description: Clear sky
 Temperature: 25.3°C
 Humidity: 55.0%
