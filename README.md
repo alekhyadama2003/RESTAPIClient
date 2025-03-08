@@ -1,4 +1,10 @@
-﻿# RESTAPIClient
+COMPANY : CODETECH IT SOLUTIONS
+NAME : ALEKHYA DAMA
+INTERN ID : CT04WVN 
+DOMAIN NAME : JAVA PROGRAMMING 
+DURATION : 4 WEEKS
+MENTOR : NEELA SANTOSH
+# RESTAPIClient
  # 🌍 REST API Weather Client  
 
 This is a **Java application** that fetches **live weather data** using the **OpenWeatherMap API** and displays it in a structured format.  
